@@ -60,5 +60,5 @@ An AI-assisted Python project that analyzes solar observation data to detect and
 * Program 7: Compares both soft and hard X-ray results to identify common and significant event overlaps, improving confidence in detection. 
 * Program 8: Consolidates all processed outputs and generates the final solar flare prediction result, indicating probable flare occurrence based on combined event analysis. 
 
-The entire system runs as an automated sequential subprocess pipeline, where each program feeds output into the next stage without manual intervention, ensuring continuous analysis of solar activity data.
+The entire system runs as an automated sequential subprocess pipeline, where each program feeds output into the next stage without manual intervention, ensuring continuous analysis of solar activity data and that file is SOLAR FLARE DETECTOR.PY
 
