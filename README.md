@@ -25,7 +25,7 @@ An AI-assisted Python project that analyzes solar observation data to detect and
 
 **Note:** This project was developed as a hackathon prototype for educational and research purposes and can be further enhanced with real-time satellite data and advanced machine learning models.
 
-##Working
+## Working
 * As this program is fully under subprocesscontrols by accessing solar flare detector.py the entire program runs continuously
 * Also for data interpretation we have uploaded a set of data for working process in case you need to access **PRADAN PORTAL OF ISRO**
 * The particular links of those portal or given below
