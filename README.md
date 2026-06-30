@@ -1,4 +1,4 @@
-# SOLAR-FLARE-DETECTOR ☀️
+# SOLAR-FLARE-DETECTOR
 This challenge is to build an automated algorithmic pipeline that uses the combined time-series data from SoLEXS and HEL1OS to detect (nowcast) or predict (forecast) these solar flares.
 # Solar Flare Forecasting and Early Warning System
 
@@ -38,7 +38,7 @@ An AI-assisted Python project that analyzes solar observation data to detect and
 * https://pradan1.issdc.gov.in/al1/protected/browse.xhtml?id=hel1os3
 * you should choose data from the same date
 
-* **DISCLAIMER**
+*⚠️**DISCLAIMER**⚠️
     * My program needs to be in a separate folder where all the 9 python files must be present
     * Before this we should install modules using pip command where it goes like
            pip install numpy pandas matplotlib seaborn scikit-learn requests astropy sunpy scipy
