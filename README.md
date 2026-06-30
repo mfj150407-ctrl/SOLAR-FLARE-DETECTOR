@@ -39,6 +39,7 @@ An AI-assisted Python project that analyzes solar observation data to detect and
 * you should choose data from the same date
 
 *⚠️**DISCLAIMER**⚠️
+    
     * My program needs to be in a separate folder where all the 9 python files must be present
     * Before this we should install modules using pip command where it goes like
            pip install numpy pandas matplotlib seaborn scikit-learn requests astropy sunpy scipy
