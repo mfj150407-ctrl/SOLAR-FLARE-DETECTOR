@@ -1,7 +1,7 @@
 # ==========================================================
 # Project : Solar Flare Forecasting using Aditya-L1
-# Team    : Your Team Name
-# Author  : Your Name
+# Team    : HELIOS 007
+# Author  : HELIOS ADMIN 
 # ==========================================================
 
 # ---------- Import Libraries ----------
